@@ -1,12 +1,15 @@
-![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="animated" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate backend web devolpment</h3>
 I am a computer science student
-Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++
+Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in C, C#
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C**     
 
 - 📫 How to reach me **mohamedelshafae888@gmail.com**
 
