@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/836HiJc7pgzy8iNXCn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn">via GIPHY</a></p>
+![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 <h1  align="center"> Hi there 👋, my name is Mohamed</h1>
 <br>
 <p>I am a computer science student
