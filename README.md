@@ -1,8 +1,8 @@
 ![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate backend web devolpment</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedelshafae&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedelshafae" /> </p>
+I am a computer science student
+Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++
 
 - 🌱 I’m currently learning **Python**
 
