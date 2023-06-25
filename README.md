@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Mohamed
-![](https://i.gifer.com/fz6c.gif )
-
-I am a computer science student
-Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++
+![gif](https://i.gifer.com/fz6c.gif)
+<h2  align="center"> Hi there 👋, my name is Mohamed</h2>
+<br>
+<p>I am a computer science student
+Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++</p>
 
 
 - 🌱 I’m currently learning Python 
