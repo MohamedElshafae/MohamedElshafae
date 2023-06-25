@@ -1,7 +1,4 @@
-<div style="text-align:center;">
-  <img src="(https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)" width="480" height="270">
-</div>
-<!--![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) -->
+![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 <h1  align="center"> Hi there 👋, my name is Mohamed</h1>
 <br>
 <p>I am a computer science student
