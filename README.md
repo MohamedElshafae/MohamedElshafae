@@ -1,4 +1,4 @@
-![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+<span align="center">![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)</span>
 <h1  align="center"> Hi there 👋, my name is Mohamed</h1>
 <br>
 <p>I am a computer science student
