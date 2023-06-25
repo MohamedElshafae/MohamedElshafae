@@ -1,12 +1,13 @@
-<span align="center">![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)</span>
+<div style="text-align:center;">
+  <img src="(https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)" width="480" height="270">
+</div>
+<!--![gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif) -->
 <h1  align="center"> Hi there 👋, my name is Mohamed</h1>
 <br>
 <p>I am a computer science student
-Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++</p>
-
+Currently, I'm in [ALX](https://www.alxafrica.com/) software engineering program, This is scholarship in web devolpment, And i i have experience in c, c#, c++</p>
 
 - 🌱 I’m currently learning Python 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
