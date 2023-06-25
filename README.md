@@ -17,6 +17,4 @@ Currently, I'm in ALX software engineering program, This is scholarship in full 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElshafae)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedElshafae&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElshafae)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedElshafae&show_icons=true)  
