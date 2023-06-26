@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate backend web devolpment</h3>
+<h3 align="center">A passionate backend web devolper</h3>
 I am a computer science student
 Currently, I'm in ALX software engineering program, This is scholarship in web devolpment, And i i have experience in C, C#
 
