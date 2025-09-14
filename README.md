@@ -11,7 +11,7 @@
 🌱 Currently expanding my skills in **Python**  
 
 - 💬 Ask me about **C, C#**  
-- 📫 Reach me at **mohamedelshafae888@gmail.com**
+- 📫 Reach me at **elshafae.official@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
